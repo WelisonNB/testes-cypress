@@ -1,0 +1,11 @@
+
+# Node.js
+node_modules/
+
+
+# Dependency directories
+package.json
+package-lock.json
+
+# Miscellaneous
+.DS_Store
